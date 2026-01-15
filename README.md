@@ -32,7 +32,7 @@ ThinkBoard is a professional, AI-powered whiteboard application that combines fr
 
 1. Clone the repository:
 ```bash
-git clone [https://github.com/iamAditya-Pandey/ThinkBoard-AI.git](https://github.com/iamAditya-Pandey/ThinkBoard-AI.git)
+git clone [https://github.com/iamAditya-Pandey/ThinkBoard-AI.git]
 cd ThinkBoard-AI-Powered-Whiteboard
 ```
 
@@ -70,7 +70,7 @@ The project uses Vite for development, which provides:
 
 ## Contact
 
-For any inquiries, reach out at [pandeyaditya19012006@gmail.com]pandeyaditya19012006@gmail.com.<br>
-GitHub: [@iamAditya-Pandey](https://github.com/iamAditya-Pandey).<br>
-Linkedin: [@Aditya-Pandey7](https://www.linkedin.com/in/aditya-pandey-23309a373/).<br>
+For any inquiries, reach out at [pandeyaditya19012006@gmail.com].<br>
+GitHub: [iamAditya-Pandey](https://github.com/iamAditya-Pandey).<br>
+Linkedin: [Aditya-Pandey](https://www.linkedin.com/in/aditya-pandey-23309a373/).<br>
 
